@@ -12,8 +12,6 @@ Finds the pose of the box using the PnP algorithm from the vertices of the box.
 
 ![Alt Text](pnp.gif)
 
-
-
 ## Task 2
 
 Establishing correspondences for SIFT Points 
@@ -32,6 +30,7 @@ RANSAC Algorithm for Object Pose Estimation
 Uses the RANSAC algorithm to find the object pose from the 2D and 3D correspondences found in the previous task.
 
 ![Alt Text](ransac.gif)
+
 ## Task 4
 
 Camera Trajectory Estimation by minimising the Reprojection Error 
@@ -42,6 +41,6 @@ Finds the pose of the object by minimising the reprojection error of the SIFT po
 
 ![Alt Text](reprojection_pose.gif)
 
-Acknowledgements
+## Acknowledgements
 
 The tasks and pictures are based on the Tracking and Detection for Computer Vision course offered at TUM.
