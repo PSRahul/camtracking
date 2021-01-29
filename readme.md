@@ -1,4 +1,4 @@
-Object Pose Estimation using OpenCV
+# Object Pose Estimation using OpenCV
 
 This repository consists of collection of tasks on object detection and pose estimation using OpenCV.
 
